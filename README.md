@@ -48,7 +48,7 @@ TensorFlow • PyTorch • Scikit-Learn • OpenCV • YOLO • Google Gemini AP
 ### 🌟 Featured Projects
 
 #### 🔹 **Employee Management System (Backend)**
-Backend built with **Express.js & MongoDB** to manage employee data with authentication, CRUD operations, and API endpoints.
+Backend built with **Express.js & MongoDB** to manage employee data with authentication, CRUD operations, and RESTful API endpoints.
 
 - RESTful APIs with Express.js  
 - MongoDB data modeling and queries  
@@ -57,7 +57,7 @@ Backend built with **Express.js & MongoDB** to manage employee data with authent
 ---
 
 #### 🔹 **AI-Powered Document → Presentation SaaS (Backend)**
-Django REST API allowing users to upload documents (PDF/DOCX/TXT/Images) and automatically generate downloadable **PowerPoint** slides using **Gemini AI**.
+Django REST API that converts uploaded documents (PDF/DOCX/TXT/Images) into AI-generated **PowerPoint** slides using **Gemini AI**.
 
 - Document parsing: PyMuPDF, PyPDF2, Pillow  
 - AI slide generation with Gemini  
@@ -75,22 +75,22 @@ Real-time mask detection with Keras CNN + computer vision.
 ---
 
 #### 🔹 **React Developer Portfolio Website**
-Modern portfolio deployed on Vercel with CI/CD.
+Modern React portfolio with responsive design, deployed on Vercel with CI/CD.
 
 🔗 Live: **https://portfolio-chi-vert-41.vercel.app/**
 
 ---
 
 #### 🔹 **Expense Tracker App (.NET Core)**
-Full-stack CRUD finance tracker with MySQL backend and clean UI.
+Full-stack finance tracker with .NET Core backend, MySQL database, and clean UI for CRUD operations.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mo-3adel&show_icons=true&theme=react" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-3adel&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mo-3adel&show_icons=true&theme=react&hide_title=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-3adel&layout=compact&theme=react&hide_title=true" width="49%" />
 </p>
 
 ---
