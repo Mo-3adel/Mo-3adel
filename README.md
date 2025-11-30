@@ -1,16 +1,114 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohamed Adel</h1>
+<h3 align="center">Software Engineer | AI & Full-Stack Developer</h3>
 
-<!--
-**Mo-3adel/Mo-3adel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Mo-3adel">
+    <img src="https://img.shields.io/github/followers/Mo-3adel?label=Followers&style=flat" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Mo-3adel&style=flat&color=blue" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- ⚡ Full-Stack & AI Developer with a **Mechatronics background**  
+- 🔭 Currently building: **Backend for Employee Management System using Express.js & MongoDB**  
+- 🤖 Interested in **AI integration, backend architecture, and SaaS platforms**  
+- 📚 Continuously improving skills through **Edges Full-Stack Diploma**  
+- 🎯 Goal: Contribute to **modern SaaS** and **AI-driven products**  
+
+---
+
+### 🛠️ Tech Stack
+
+#### **Languages**
+Python • JavaScript (ES6+) • TypeScript • C# • C++
+
+#### **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,redux,vue,js,ts" />
+</p>
+
+#### **Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,dotnet" />
+</p>
+
+#### **Databases & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,git,postman" />
+</p>
+
+#### **Machine Learning / AI**
+TensorFlow • PyTorch • Scikit-Learn • OpenCV • YOLO • Google Gemini API
+
+---
+
+### 🌟 Featured Projects
+
+#### 🔹 **Employee Management System (Backend)**
+Backend built with **Express.js & MongoDB** to manage employee data with authentication, CRUD operations, and API endpoints.
+
+- RESTful APIs with Express.js  
+- MongoDB data modeling and queries  
+- JWT authentication & role-based access  
+
+---
+
+#### 🔹 **AI-Powered Document → Presentation SaaS (Backend)**
+Django REST API allowing users to upload documents (PDF/DOCX/TXT/Images) and automatically generate downloadable **PowerPoint** slides using **Gemini AI**.
+
+- Document parsing: PyMuPDF, PyPDF2, Pillow  
+- AI slide generation with Gemini  
+- PPT building with python-pptx  
+- Authenticated REST endpoints  
+
+---
+
+#### 🔹 **Face Mask Detection – CNN + OpenCV**
+Real-time mask detection with Keras CNN + computer vision.
+
+- Live webcam inference  
+- High accuracy binary classification  
+
+---
+
+#### 🔹 **React Developer Portfolio Website**
+Modern portfolio deployed on Vercel with CI/CD.
+
+🔗 Live: **https://portfolio-chi-vert-41.vercel.app/**
+
+---
+
+#### 🔹 **Expense Tracker App (.NET Core)**
+Full-stack CRUD finance tracker with MySQL backend and clean UI.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mo-3adel&show_icons=true&theme=react" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-3adel&layout=compact&theme=react" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohamed-adel-47aa01177">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:ps.mohamed.adel@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/Mo-3adel">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+⭐ *If you like my work, feel free to star my repos!*
