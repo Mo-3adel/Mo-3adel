@@ -90,10 +90,10 @@ Full-stack finance tracker with .NET Core backend, MySQL database, and clean UI 
 
 <p align="center">
   <!-- Total GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mo-3adel&show_icons=true&theme=react&hide_title=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mo-3adel&show_icons=true&theme=react&hide_title=true&count_private=true" width="48%" alt="GitHub Stats"/>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-3adel&layout=compact&theme=react&hide_title=true" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-3adel&layout=compact&theme=react&hide_title=true" width="48%" alt="Top Languages"/>
 </p>
 
 <!-- Fallback badges if Vercel is temporarily down -->
