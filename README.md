@@ -89,9 +89,20 @@ Full-stack finance tracker with .NET Core backend, MySQL database, and clean UI 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mo-3adel&show_icons=true&theme=react&hide_title=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-3adel&layout=compact&theme=react&hide_title=true" width="49%" />
+  <!-- Total GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mo-3adel&show_icons=true&theme=react&hide_title=true&count_private=true" width="48%" alt="GitHub Stats"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-3adel&layout=compact&theme=react&hide_title=true" width="48%" alt="Top Languages"/>
 </p>
+
+<!-- Fallback badges if Vercel is temporarily down -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Mo-3adel?style=flat&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/languages/top/Mo-3adel?style=flat&label=Top+Language" alt="Top Language"/>
+  <img src="https://img.shields.io/github/repos-per-language/Mo-3adel?style=flat&label=Repos+Per+Language" alt="Repos per Language"/>
+</p>
+
 
 ---
 
